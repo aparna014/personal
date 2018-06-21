@@ -17,23 +17,26 @@ Education
 
 Work experience
 ======
-* August 2013- Present: Graduate Researcher, Purdue University
+* August 2013- Present: Graduate Researcher, Purdue University 
+  Supervisor: Michael Wendt
   * Successfully synthesized fluorophore conjugated collagen peptides using Fmoc based solid phase peptide synthesis and purified using RP-HPLC to study their uptake in cancer cells
   * Prepared and characterized paclitaxel nanocrystals using TEM, SEM, zetasizer and LC-MS to investigate their therapeutic efficacy in vitro & in vivo
   * Successfully generated single gene knockout cell lines using CRISPR/CAS system and developed an inducible overexpression/depletion system for multiple genes using lentiviral approach to investigate their function in breast cancer metastasis 
   * Discovered the role of extracellular matrix proteins in breast cancer metastasis and drug resistance using novel 3D scaffolds and in vivo bio luminescence imaging
   * Customized double filtration method for isolation of nanosized cancer vesicles to utilize them as nanoscale ultrasound contrasting agents for tumor diagnosis 
   * Communicated research findings at conferences and mentored new PhD students
-  * Supervisor: Michael Wendt
+  
 
 * Jun 2017 - Sep 2017: Research Intern, Genentech Inc (South San Francisco)  
+  Supervisor: Dr. James Ernst (Protein Chemistry and Structural Biology Dept) 
   * Purified antibodies using FPLC and investigated protein binding affinity using FRET, ITC and SPR
   * Quality Control of purified protein using SDS PAGE, LC-MS, SEC and MALS
   * Designed DNA constructs for BiFC assay to investigate protein-protein interactions and localization
   * Developed and optimized FACS to determine protein expression on cell surface
-  * Supervisor: Dr. James Ernst (Protein Chemistry and Structural Biology Dept) 
+  
 
 * January 2011 - May 2013: Graduate Research Assistant & Lab Manager California State University, Long Beach (CSULB) 
+  (Supervisor: Kasha Slowinska)
   * Developed novel peptide carrier based on collagen peptides for cancer drug delivery
   * Determined conformation of helical peptides using circular dichroism
   * Optimized HPLC parameters for identication and quantication of peptide carriers in human serum
@@ -63,9 +66,8 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+2015: Oral presentation award at American Industrial Hygiene Association 
+2018: Oral Presentation at Annual Amelia Project Conference
   
 Teaching
 ======
