@@ -102,19 +102,11 @@ Scholarships, Fellowships & Grants
 Coneferences (Poster Presentations)
 ======
 * 2018: Poster in 3rd Annual Midwest Tumor Microenvironment Meeting, Autocrine fibronectin inhibits breast cancer metastasis"
-* 2018: Poster in American Association of Cancer Research Conference Chicago, "Autocrine -
-bronectin inhibits breast cancer metastasis"
-* 2017: Poster in Metastatic Breast Cancer Conference Houston, "Fibronectin mediates epithelial-
-mesenchymal transition in metastatic breast cancer"
-* 2017: Poster in 3rd Annual Midwest Tumor Microenvironment Meeting, "Fibronectin mediates
-epithelial-mesenchymal transition in metastatic breast cancer"
-* 2017: Poster in Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal
-transition in metastatic breast cancer"
-* 2016: Poster in Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal
-transition in metastatic breast cancer"
-* 2015: Poster in American Industrial Hygiene Association Conference (AIHce), "Comparison of
-cytotoxicity of carbon nanomaterials in human lung normal and cancer lung cell line"
-* 2013: Poster in the 25th Annual Biotechnology Symposium of California State Universities, "Helical
-Peptide Nanocarrier for Anti-Cancer Drugs."
-* 2012: Poster in the American Chemical Society Meeting Spring, "Helical Peptide Nanocarrier for
-Anti-Cancer Drugs."
+* 2018: Poster in American Association of Cancer Research Conference Chicago, "Autocrine Fibronectin inhibits breast cancer metastasis"
+* 2017: Poster in Metastatic Breast Cancer Conference Houston, "Fibronectin mediates epithelial mesenchymal transition in metastatic breast cancer"
+* 2017: Poster in 3rd Annual Midwest Tumor Microenvironment Meeting, "Fibronectin mediates epithelial-mesenchymal transition in metastatic breast cancer"
+* 2017: Poster in Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal transition in metastatic breast cancer"
+* 2016: Poster in Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal transition in metastatic breast cancer"
+* 2015: Poster in American Industrial Hygiene Association Conference (AIHce), "Comparison of cytotoxicity of carbon nanomaterials in human lung normal and cancer lung cell line"
+* 2013: Poster in the 25th Annual Biotechnology Symposium of California State Universities, "Helical Peptide Nanocarrier for Anti-Cancer Drugs."
+* 2012: Poster in the American Chemical Society Meeting Spring, "Helical Peptide Nanocarrier for Anti-Cancer Drugs."
