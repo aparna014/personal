@@ -64,22 +64,15 @@ Publications
 Training/Teaching Experience
 ======
 * August 2014-May 2015: Teaching Assistant, Purdue University, West Lafayette 
-  * Trained incoming PhD students and PhD students from other lab in molecular biology techniques, in
-vivo imaging technique and in vitro drug response assays
-  * Trained 2 undergraduate students in mammalian cell culture and 
-uorescence microscopy, 1 graduate
-student in Nanosight spectrocopy, TEM and SEM
-  * I was in charge of training and maintaining Nanosight spectroscopy instrument in my lab which gener-
-ated preliminary data for 3 grants and 4 peer reviewed Journal papers.
-  * Designed in class activities for 400 level seminar course and executed them eciently and lead 2 inquiry-
-based lab sections of 25 students by introducing concepts and experiments. Students publicized in-
-creased academic condence and enthusiasm in other challenging science courses upon completion of
-program.
+  * Trained incoming PhD students and PhD students from other lab in molecular biology techniques, in vivo imaging technique and in vitro drug response assays
+  * Trained undergraduate and graduate students in mammalian cell culture and fuorescence microscopy, Nanosight spectrocopy, TEM and SEM
+  * I was in charge of training and maintaining Nanosight spectroscopy instrument in my lab which generated preliminary data for 3 grants and 4 peer reviewed Journal papers.
+  * Designed in class activities for 400 level seminar course and executed them efficiently and lead 2 inquiry based lab sections of 25 students by introducing concepts and experiments. Students publicized increased academic condence and enthusiasm in other challenging science courses upon completion of program.
 
 * January 2010 - May 2013: Teaching Assistant California State University, Long Beach (CSULB) 
   * I was in-charge of training and maintaining cell culture techniques and facilities, HPLC and Fluorescence
 microscopy instrument in my lab which generated preliminary data for 2 grants and 3 peer reviewed Journal papers.
-  * Trained 4 undergraduate and 2 graduate students in mammalian cell culture, flow cytometry, circular dichroism, HPLC and confocal microscopy
+  * Trained undergraduate and graduate students in  HPLC, mammalian cell culture, flow cytometry, circular dichroism, and confocal microscopy
   * Instructed weekly review sessions for 20-25 students, assisted in designing and grading 4 problem sets
   * TA for 4 chemistry labs and 1 biochemistry lab
   * Graded and designed quizzes for 400 level biochemistry courses
