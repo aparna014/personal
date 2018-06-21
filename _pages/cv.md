@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Biotechnology, University of Mumbai, 2008
 * M.S. in Chemistry and Biochemistry (specialization in Analytical Chemistry) California State University of Long Beach, 2013
-* Ph.D in Medicinal Chemistry & Molecular Pharmacology (specialization in Molecular Signaling and Oncology) Purdue University,2018
+* Ph.D in Medicinal Chemistry & Molecular Pharmacology (specialization in Molecular Signaling and Oncology) Purdue University, 2018
 
 Work experience
 ======
@@ -36,7 +36,7 @@ Work experience
   
 
 * January 2011 - May 2013: Graduate Research Assistant & Lab Manager California State University, Long Beach (CSULB) 
-  (Supervisor: Kasha Slowinska)
+  Supervisor: Kasha Slowinska
   * Developed novel peptide carrier based on collagen peptides for cancer drug delivery
   * Determined conformation of helical peptides using circular dichroism
   * Optimized HPLC parameters for identication and quantication of peptide carriers in human serum
@@ -66,8 +66,8 @@ Publications
   
 Talks
 ======
-2015: Oral presentation award at American Industrial Hygiene Association 
-2018: Oral Presentation at Annual Amelia Project Conference
+* 2015: Oral presentation award at American Industrial Hygiene Association 
+* 2018: Oral Presentation at Annual Amelia Project Conference
   
 Teaching
 ======
