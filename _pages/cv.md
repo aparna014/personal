@@ -25,7 +25,6 @@ Work experience
   * Discovered the role of extracellular matrix proteins in breast cancer metastasis and drug resistance using novel 3D scaffolds and in vivo bio luminescence imaging
   * Customized double filtration method for isolation of nanosized cancer vesicles to utilize them as nanoscale ultrasound contrasting agents for tumor diagnosis 
   * Communicated research findings at conferences and mentored new PhD students
-  
 
 * Jun 2017 - Sep 2017: Research Intern, Genentech Inc (South San Francisco)  
   Supervisor: Dr. James Ernst (Protein Chemistry and Structural Biology Dept) 
@@ -34,7 +33,6 @@ Work experience
   * Designed DNA constructs for BiFC assay to investigate protein-protein interactions and localization
   * Developed and optimized FACS to determine protein expression on cell surface
   
-
 * January 2011 - May 2013: Graduate Research Assistant & Lab Manager California State University, Long Beach (CSULB) 
   Supervisor: Kasha Slowinska
   * Developed novel peptide carrier based on collagen peptides for cancer drug delivery
@@ -63,15 +61,7 @@ Publications
 * A. Shinde and C. Tsai, “Toxicity mechanism in fetal lung fibroblast cells for multi-walled carbon nanotubes defined by chemical impurities and dispersibility'', Toxicology Research, 2016, 5 (Top 30-Most Accessed Toxicology Research Articles in 2016)
 * A. Shinde et al, “Peptide internalization enabled by folding: triple helical cell-penetrating peptides'', Journal of Peptide Science, 2015
 
-  
-Talks
-======
-* 2018: Oral Presentation at Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal
-transition in metastatic breast cancer"
-* 2015: Oral presentation at American Industrial Hygiene Association (AIHA) - Chicago chapter, "Particle characterization factors responsible for malignant transformation of lung cells associated with exposure to carbon nanoparticles"
-
-  
-Teaching
+Training/Teaching Experience
 ======
 * August 2014-May 2015: Teaching Assistant, Purdue University, West Lafayette 
   * Trained incoming PhD students and PhD students from other lab in molecular biology techniques, in
@@ -93,7 +83,44 @@ microscopy instrument in my lab which generated preliminary data for 2 grants an
   * Instructed weekly review sessions for 20-25 students, assisted in designing and grading 4 problem sets
   * TA for 4 chemistry labs and 1 biochemistry lab
   * Graded and designed quizzes for 400 level biochemistry courses
-  
-Service and leadership
+Talks
 ======
-* Currently signed in to 43 different slack teams
+* 2018: Oral Presentation at Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal
+transition in metastatic breast cancer"
+* 2015: Oral presentation at American Industrial Hygiene Association (AIHA) - Chicago chapter, "Particle characterization factors responsible for malignant transformation of lung cells associated with exposure to carbon nanoparticles"
+
+Awards
+====== 
+* 2018: Graduate student poster award in Interdisciplinary Health and Disease Graduate student poster competition, Purdue University
+* 2018: College of Pharmacy Graduate Student Travel Award for AACR conference 
+* 2015: 1 of 4 AIHce Student and Young Professional Sponsorship Winner across US 
+* 2015: Best Poster Award in American Industrial Hygiene Conference (AIHce) 
+* 2015: Best oral presentation award at American Industrial Hygiene Association 
+  
+Scholarships, Fellowships & Grants
+====== 
+* Fall 2018: Bilsland Dissertation Fellowship (given to Outstanding PhD candidate
+* August 2017 - July 2018: Cancer Prevention Internship Program Fellowship, Role: Co-PI
+* Summer 2015: American Industrial Hygiene Foundation Scholarship  ($2000)
+* Fall 2015: Eli Lilly and Company Industrial Hygiene Scholarship ($3000)
+* 2015 – 2016: Individual Research Grant from University of Cincinnati for NIOSH Pilot Project ($6800), Role: PI                            
+
+Coneferences (Poster Presentations)
+======
+* 2018: Poster in 3rd Annual Midwest Tumor Microenvironment Meeting, Autocrine fibronectin inhibits breast cancer metastasis"
+* 2018: Poster in American Association of Cancer Research Conference Chicago, "Autocrine -
+bronectin inhibits breast cancer metastasis"
+* 2017: Poster in Metastatic Breast Cancer Conference Houston, "Fibronectin mediates epithelial-
+mesenchymal transition in metastatic breast cancer"
+* 2017: Poster in 3rd Annual Midwest Tumor Microenvironment Meeting, "Fibronectin mediates
+epithelial-mesenchymal transition in metastatic breast cancer"
+* 2017: Poster in Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal
+transition in metastatic breast cancer"
+* 2016: Poster in Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal
+transition in metastatic breast cancer"
+* 2015: Poster in American Industrial Hygiene Association Conference (AIHce), "Comparison of
+cytotoxicity of carbon nanomaterials in human lung normal and cancer lung cell line"
+* 2013: Poster in the 25th Annual Biotechnology Symposium of California State Universities, "Helical
+Peptide Nanocarrier for Anti-Cancer Drugs."
+* 2012: Poster in the American Chemical Society Meeting Spring, "Helical Peptide Nanocarrier for
+Anti-Cancer Drugs."
