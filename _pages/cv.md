@@ -83,6 +83,7 @@ microscopy instrument in my lab which generated preliminary data for 2 grants an
   * Instructed weekly review sessions for 20-25 students, assisted in designing and grading 4 problem sets
   * TA for 4 chemistry labs and 1 biochemistry lab
   * Graded and designed quizzes for 400 level biochemistry courses
+  
 Talks
 ======
 * 2018: Oral Presentation at Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal
