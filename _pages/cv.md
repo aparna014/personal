@@ -11,21 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Biotechnology, University of Mumbai, 2008
+* M.S. in M.S., Chemistry and Biochemistry (specialization in Analytical Chemistry) California State University of Long Beach, 2013
+* Ph.D in  Medicinal Chemistry & Molecular Pharmacology (specialization in Molecular Signaling and Oncology) Purdue University,2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2013- Present: Graduate Researcher, Purdue University
+  * Successfully synthesized fluorophore conjugated collagen peptides using Fmoc based solid phase peptide synthesis and purified using RP-HPLC to study their uptake in cancer cells
+  * Prepared and characterized paclitaxel nanocrystals using TEM, SEM, zetasizer and LC-MS to investigate their therapeutic efficacy in vitro & in vivo
+  * Successfully generated single gene knockout cell lines using CRISPR/CAS system and developed an inducible overexpression/depletion system for multiple genes using lentiviral approach to investigate their function in breast cancer metastasis 
+  * Discovered the role of extracellular matrix proteins in breast cancer metastasis and drug resistance using novel 3D scaffolds and in vivo bio luminescence imaging
+  * Customized double filtration method for isolation of nanosized cancer vesicles to utilize them as nanoscale ultrasound contrasting agents for tumor diagnosis 
+  * Communicated research findings at conferences and mentored new PhD students
+  * Supervisor: Michael Wendt
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2017 - Sep 2017: Research Intern, Genentech Inc (South San Francisco)  
+  * Purified antibodies using FPLC and investigated protein binding affinity using FRET, ITC and SPR
+  * Quality Control of purified protein using SDS PAGE, LC-MS, SEC and MALS
+  * Designed DNA constructs for BiFC assay to investigate protein-protein interactions and localization
+  * Developed and optimized FACS to determine protein expression on cell surface
+  * Supervisor: Dr. James Ernst (Protein Chemistry and Structural Biology Dept) 
+
+* January 2011 - May 2013: Graduate Research Assistant & Lab Manager California State University, Long Beach (CSULB) 
+  * Developed novel peptide carrier based on collagen peptides for cancer drug delivery
+  * Determined conformation of helical peptides using circular dichroism
+  * Optimized HPLC parameters for identication and quantication of peptide carriers in human serum
+  * Investigated cellular uptake of peptides using confocal microscopy and flow cytometry
+  * Determined IC50 of peptides using ITC
   
 Skills
 ======
@@ -50,9 +63,26 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * August 2014-May 2015: Teaching Assistant, Purdue University, West Lafayette 
+  * Trained incoming PhD students and PhD students from other lab in molecular biology techniques, in
+vivo imaging technique and in vitro drug response assays
+  * Trained 2 undergraduate students in mammalian cell culture and 
+uorescence microscopy, 1 graduate
+student in Nanosight spectrocopy, TEM and SEM
+  * I was in charge of training and maintaining Nanosight spectroscopy instrument in my lab which gener-
+ated preliminary data for 3 grants and 4 peer reviewed Journal papers.
+  * Designed in class activities for 400 level seminar course and executed them eciently and lead 2 inquiry-
+based lab sections of 25 students by introducing concepts and experiments. Students publicized in-
+creased academic condence and enthusiasm in other challenging science courses upon completion of
+program.
+
+January 2010 - May 2013: Teaching Assistant California State University, Long Beach (CSULB) 
+  * I was in-charge of training and maintaining cell culture techniques and facilities, HPLC and Fluorescence
+microscopy instrument in my lab which generated preliminary data for 2 grants and 3 peer reviewed Journal papers.
+  * Trained 4 undergraduate and 2 graduate students in mammalian cell culture, flow cytometry, circular dichroism, HPLC and confocal microscopy
+  * Instructed weekly review sessions for 20-25 students, assisted in designing and grading 4 problem sets
+  * TA for 4 chemistry labs and 1 biochemistry lab
+  * Graded and designed quizzes for 400 level biochemistry courses
   
 Service and leadership
 ======
