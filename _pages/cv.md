@@ -101,7 +101,7 @@ Scholarships, Fellowships & Grants
 
 Coneferences (Poster Presentations)
 ======
-* 2018: Poster in 3rd Annual Midwest Tumor Microenvironment Meeting, Autocrine fibronectin inhibits breast cancer metastasis"
+* 2018: Poster in Annual Amelia Project Conference,, Autocrine fibronectin inhibits breast cancer metastasis"
 * 2018: Poster in American Association of Cancer Research Conference Chicago, "Autocrine Fibronectin inhibits breast cancer metastasis"
 * 2017: Poster in Metastatic Breast Cancer Conference Houston, "Fibronectin mediates epithelial mesenchymal transition in metastatic breast cancer"
 * 2017: Poster in 3rd Annual Midwest Tumor Microenvironment Meeting, "Fibronectin mediates epithelial-mesenchymal transition in metastatic breast cancer"
