@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Biotechnology, University of Mumbai, 2008
-* M.S. in M.S., Chemistry and Biochemistry (specialization in Analytical Chemistry) California State University of Long Beach, 2013
-* Ph.D in  Medicinal Chemistry & Molecular Pharmacology (specialization in Molecular Signaling and Oncology) Purdue University,2018
+* M.S. in Chemistry and Biochemistry (specialization in Analytical Chemistry) California State University of Long Beach, 2013
+* Ph.D in Medicinal Chemistry & Molecular Pharmacology (specialization in Molecular Signaling and Oncology) Purdue University,2018
 
 Work experience
 ======
@@ -42,12 +42,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* In vivo Techniques: Handling of rodents, injections in mice include fat pad, IP, IV, SC, PO dosing and tail vein, survival surgery, IHC, in vivo bioluminescence imaging, blood and tissue collection, ex vivo culture
+* Molecular Biology: 2D and 3D Cell culture, in vitro cell based assays, Western Blot, SDS PAGE and AGE, CRISPR/Cas9 systems, fluorescence/luminescence-based plate reader assays, RNA interference (siRNA/shRNA), reporter gene assays, primary/stem cell models, molecular cloning, RNA/DNA/protein quantification, and viral vector development, RT-PCR, cytokine signaling assays, NGS
+* Protein Purification: Analytical and Semipreparative HPLC, FPLC, Affinity Chromatography, LC-MS, MALDI, SEC, MALS, ITC
+* Protein-Protein Interaction: FRET, SPR, BiFC, Co-Immunoprecipitation
+* Spectroscopy & Microscopy: UV-VIS, Circular Dichroism, Confocal and Time Lapse Microscopy, STORM microscopy, TEM and SEM, Flow Cytometry, Incucyte, 
+* Statistics: JMP, SAS
+* Software: Microsoft Office, Prism, ASTRA, ChemStation, FACSDiva, Flowjo, Amiview
 
 Publications
 ======
@@ -63,7 +64,7 @@ Talks
   
 Teaching
 ======
-  * August 2014-May 2015: Teaching Assistant, Purdue University, West Lafayette 
+* August 2014-May 2015: Teaching Assistant, Purdue University, West Lafayette 
   * Trained incoming PhD students and PhD students from other lab in molecular biology techniques, in
 vivo imaging technique and in vitro drug response assays
   * Trained 2 undergraduate students in mammalian cell culture and 
@@ -76,7 +77,7 @@ based lab sections of 25 students by introducing concepts and experiments. Stude
 creased academic condence and enthusiasm in other challenging science courses upon completion of
 program.
 
-January 2010 - May 2013: Teaching Assistant California State University, Long Beach (CSULB) 
+* January 2010 - May 2013: Teaching Assistant California State University, Long Beach (CSULB) 
   * I was in-charge of training and maintaining cell culture techniques and facilities, HPLC and Fluorescence
 microscopy instrument in my lab which generated preliminary data for 2 grants and 3 peer reviewed Journal papers.
   * Trained 4 undergraduate and 2 graduate students in mammalian cell culture, flow cytometry, circular dichroism, HPLC and confocal microscopy
