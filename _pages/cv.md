@@ -37,7 +37,7 @@ Work experience
   Supervisor: Kasha Slowinska
   * Developed novel peptide carrier based on collagen peptides for cancer drug delivery
   * Determined conformation of helical peptides using circular dichroism
-  * Optimized HPLC parameters for identication and quantication of peptide carriers in human serum
+  * Optimized HPLC parameters for identication and quantification of peptide carriers in human serum
   * Investigated cellular uptake of peptides using confocal microscopy and flow cytometry
   * Determined IC50 of peptides using ITC
   
@@ -101,7 +101,7 @@ Scholarships, Fellowships & Grants
 
 Coneferences (Poster Presentations)
 ======
-* 2018: Poster in Annual Amelia Project Conference,, Autocrine fibronectin inhibits breast cancer metastasis"
+* 2018: Poster in Annual Amelia Project Conference, "Autocrine fibronectin inhibits breast cancer metastasis"
 * 2018: Poster in American Association of Cancer Research Conference Chicago, "Autocrine Fibronectin inhibits breast cancer metastasis"
 * 2017: Poster in Metastatic Breast Cancer Conference Houston, "Fibronectin mediates epithelial mesenchymal transition in metastatic breast cancer"
 * 2017: Poster in 3rd Annual Midwest Tumor Microenvironment Meeting, "Fibronectin mediates epithelial-mesenchymal transition in metastatic breast cancer"
