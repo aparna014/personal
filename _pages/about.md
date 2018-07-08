@@ -12,9 +12,31 @@ This is the front page of a website that is powered by the [academicpages templa
 
 | | |                                                           
 |:---|:-----|
-|<img src='/images/Picture1.png' alt="drawing" width="200px"/>| Paper title and author list |
+|| Paper title and author list |
 |<img src='/images/Picture1.png' alt="drawing" width="200px"/>| Paper title and author list |
 
+<table id="t">
+  <colgroup>
+    <col class="w">
+    <col>
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src='/images/Picture1.png' alt="drawing" width="200px"/></td>
+      <td>Example text</td>
+    </tr>
+    <tr>
+      <td><img src='/images/Picture1.png' alt="drawing" width="200px"/></td>
+      <td>Example text</td>
+    </tr>
+  </tbody>
+</table>
 
 A data-driven personal website
 ======
