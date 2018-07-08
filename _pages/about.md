@@ -13,8 +13,11 @@ This is the front page of a website that is powered by the [academicpages templa
 |  |  |  |                                                           
 | :---:    | :--------------: | :---: |
 |<img src='/images/Picture1.png'>| Paper title and author list | Links |
+|  |  |  | 
 |<img src='/images/Picture1.png'>| 2019   | Description of the item in the list|
+|  |  |  | 
 |<img src='/images/Picture1.png'>| 2022   | Description of the item in the list|
+|  |  |  | 
 
 
 A data-driven personal website
