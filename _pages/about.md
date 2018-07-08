@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ruchit Mehta"
+title: "Aparna Shinde"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
