@@ -19,6 +19,18 @@ This is the front page of a website that is powered by the [academicpages templa
 |<img src='/images/Picture1.png'>| 2022   | Description of the item in the list|
 |  |  |  | 
 
+<table>
+  <tr>
+    <td><img src='/images/Picture1.png'></td>
+    <td>200</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td><img src='/images/Picture1.png'></td>
+    <td>500</td>
+    <td>600</td>
+  </tr>
+</table>
 
 A data-driven personal website
 ======
