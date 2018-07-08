@@ -7,14 +7,14 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 10 , 10);
-          transform: translate3d(0, 10 , 10);
+  -webkit-transform: translate3d(0, 0 , 0);
+          transform: translate3d(0, 0 , 0);
 
   @include clearfix();
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(1 of 10);
+    @include span(3 of 3);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
