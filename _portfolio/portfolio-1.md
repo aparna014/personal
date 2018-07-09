@@ -1,5 +1,5 @@
 ---
-title: "Role of Extracellular Matrix proteins in Breast Cancer Metastasis"
+title: "Role of Extracellular Matrix Proteins in Breast Cancer Metastasis"
 excerpt: "In contrast to the tumor promoting functions of fibronectin within the ECM, our data suggest that autocrine fibronectin production inhibits the metastatic potential of mesenchymal tumor cells. <br/><img src='/images/Port_1.png'>"
 collection: portfolio
 ---
