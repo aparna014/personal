@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a PhD student in [Medicinal Chemistry and Molecular Pharmacology Dept](https://mcmp.purdue.edu) at Purdue University advised by [Michael Wendt](https://www.wendtlab.com/). 
+
 I am mainly interested in Antibody Drug Conjugates and Cancer Immunotherapy.  
 
 
@@ -35,7 +36,7 @@ Publications
     </tr>
         <tr>
       <td><img src='/images/pub_toc_3.png' alt="drawing" width="300px"/></td>
-      <td><b>Toxicity mechanism in fetal lung fibroblast cells for multi-walled carbon nanotubes defined by chemical impurities and dispersibility</b><br/><em><u>Aparna Shinde</u> and C. Tsai</em> <br/>Toxicology Research 2016 <a href="http://academicpages.github.io/files/Paper_3.pdf"> [pdf] </a> <br/> <b style="color:#ff4d4d;">Top 30-Most Accessed Toxicology Research Articles in 2016</b></td>
+      <td><b>Toxicity mechanism in fetal lung fibroblast cells for multi-walled carbon nanotubes defined by chemical impurities and dispersibility</b><br/><em><u>Aparna Shinde</u> and C. Tsai</em> <br/>Toxicology Research 2016 <a href="http://academicpages.github.io/files/Paper_3.pdf"> [pdf] </a> <br/> <b style="color:#ff4d4d;">Top 30-Most Accessed Articles for 2016 in Toxicology Research </b></td>
     </tr>
         <tr>
       <td><img src='/images/pub_toc_4.png' alt="drawing" width="300px"/></td>
