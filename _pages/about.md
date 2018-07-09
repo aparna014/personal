@@ -26,11 +26,11 @@ Publications
   <tbody>
     <tr>
       <td><img src='/images/pub_toc_1.png' alt="drawing" width="300px"/></td>
-      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u> S. Libring, A. Alposy, A. Abdullah, J.A. Schaber, L. Solorio and M. K. Wendt</em><br/>Molecular Cancer Research 2018</td>
+      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u> S. Libring, A. Alposy, A. Abdullah, J.A. Schaber, L. Solorio and M. K. Wendt</em><br/>Molecular Cancer Research 2018 <br/>[pdf](http://academicpages.github.io/files/Paper_1.pdf) [supplementary info](http://academicpages.github.io/files/Supp_Paper_1.pdf) [video](https://www.youtube.com)</td>
     </tr>
     <tr>
       <td><img src='/images/pub_toc_2.png' alt="drawing" width="300px"/></td>
-      <td><b>Pyruvate carboxylase drives pulmonary tropism of breast cancer</b><br/><em><u>Aparna Shinde,</u> T. Wilmanski, H. Chen, D. Teegarden and M. K. Wendt </em> <br/>Breast Cancer Research 2018 </td>
+      <td><b>Pyruvate carboxylase drives pulmonary tropism of breast cancer</b><br/><em><u>Aparna Shinde,</u> T. Wilmanski, H. Chen, D. Teegarden and M. K. Wendt </em> <br/>Breast Cancer Research 2018 <br/>[pdf](http://academicpages.github.io/files/Paper_2.pdf) [supplementary info](http://academicpages.github.io/files/Supp_Paper_2.pdf)</td>
     </tr>
         <tr>
       <td><img src='/images/pub_toc_3.png' alt="drawing" width="300px"/></td>
