@@ -35,7 +35,7 @@ This is the front page of a website that is powered by the [academicpages templa
       <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u>etal.</em>  </td>
     </tr>
         <tr>
-      <td><img src='/images/pub_toc_4.png' alt="drawing" width="300px"/></td>
+      <td><img src='/images/pub_toc_4.png' alt="drawing" width="200px"/></td>
       <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u>etal.</em>  </td>
     </tr>
         <tr>
