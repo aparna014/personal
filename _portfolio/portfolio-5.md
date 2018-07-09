@@ -1,1 +1,7 @@
+---
+title: "Role of Autophagy in Breast Cancer Metastasis"
+excerpt: "This study shows critical roles for P-body formation and autophagy in transitions of cancer cells between epithelial and mesenchymal phenotypes and help explain how autophagy functions to promote or suppress tumor cell growth during different stages of tumorigenesis. <br/><img src='/images/Port_5.png'>"
+collection: portfolio
+---
 
+Processing bodies (P-bodies) are ribonucleoprotein complexes involved in post-transcriptional mRNA metabolism that accumulate in cells exposed to various stress stimuli. The treatment of mammary epithelial cells with transforming growth factor-beta (TGF-β), triggers epithelial-mesenchymal transition (EMT), and induces the formation of P-bodies. Ectopic expression of the transcription factor TWIST, which stimulates EMT downstream of the TGF-β receptor, also promotes P-body formation. Removal of TGF-β from treated cells results in the clearance of P-bodies by a process that is blocked by inhibitors of autophagy. Activators of autophagy enhance P-body clearance and block EMT. Blockage of P-body formation by disruption of the gene for DDX6, a protein essential for P-body assembly, blocks EMT and prevents tumor cell metastasis in vivo. These studies suggest critical roles for P-body formation and autophagy in transitions of cancer cells between epithelial and mesenchymal phenotypes and help explain how autophagy functions to promote or suppress tumor cell growth during different stages of tumorigenesis.
