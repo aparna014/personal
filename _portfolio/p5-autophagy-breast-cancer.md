@@ -1,5 +1,5 @@
 ---
-title: "1) Role of Autophagy in Breast Cancer Metastasis"
+title: "Role of Autophagy in Breast Cancer Metastasis"
 excerpt: "This study shows critical roles for P-body formation and autophagy in transitions of cancer cells between epithelial and mesenchymal phenotypes and help explain how autophagy functions to promote or suppress tumor cell growth during different stages of tumorigenesis. <br/><br/><img src='/images/Port_5.png'>"
 collection: portfolio
 ---
