@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "May 2010"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "California State University Long Beach, Chemistry and Biochemistry"
+date: 2010-15-01
+location: "Long Beach, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was teaching assistant of Chem 101 & Chem 140
 
 Heading 1
 ======
