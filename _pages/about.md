@@ -23,12 +23,28 @@ This is the front page of a website that is powered by the [academicpages templa
   </thead>
   <tbody>
     <tr>
-      <td><img src='/images/Picture1.png' alt="drawing" width="200px"/></td>
-      <td>Example text Example text Example text Example text Example text Example text </td>
+      <td><img src='/images/pub_toc_1.png' alt="drawing" width="200px"/></td>
+      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u>etal.</em>  </td>
     </tr>
     <tr>
-      <td><img src='/images/Picture1.png' alt="drawing" width="200px"/></td>
-      <td>Example text</td>
+      <td><img src='/images/pub_toc_2.png' alt="drawing" width="200px"/></td>
+      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u>etal.</em>  </td>
+    </tr>
+        <tr>
+      <td><img src='/images/pub_toc_3.png' alt="drawing" width="200px"/></td>
+      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u>etal.</em>  </td>
+    </tr>
+        <tr>
+      <td><img src='/images/pub_toc_4.png' alt="drawing" width="200px"/></td>
+      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u>etal.</em>  </td>
+    </tr>
+        <tr>
+      <td><img src='/images/pub_toc_5.png' alt="drawing" width="200px"/></td>
+      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u>etal.</em>  </td>
+    </tr>
+        <tr>
+      <td><img src='/images/pub_toc_6.png' alt="drawing" width="200px"/></td>
+      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u>etal.</em>  </td>
     </tr>
   </tbody>
 </table>
