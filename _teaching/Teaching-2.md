@@ -1,8 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 2"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
 venue: "Purdue University, College of Human and Health Sciences"
 date: 2014-2015
 location: "West Lafayette, USA"
