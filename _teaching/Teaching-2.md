@@ -3,7 +3,8 @@ title: "Teaching experience 2"
 collection: teaching
 type: "undergraduate"
 venue: "Purdue University, College of Human and Health Sciences"
-date: August 2014- May 2015
+start_date: August 2014
+end_date: May 2015
 location: "West Lafayette, USA"
 ---
 
