@@ -1,1 +1,9 @@
+---
+title: "Helical collagen Peptides as Novel Cancer Drug Carriers"
+excerpt: "Here, we present peptides (30-mers) that efficiently penetrate cellular membranes by combining very short CPP sequences and collagen-like folding domains that allows triple helical conformation. This conformation allows are efficient internalization, increased stability against enzymatic degradation in human serum and minimal toxicity. <br/><img src='/images/Port_4.png'>"
+collection: portfolio
+---
+<a href="https://aparna014.github.io/portfolio/">&larr;Back</a>
+
+Cell-penetrating peptides (CPPs) are known as efficient transporters of molecular cargo across cellular membranes. Their properties make them ideal candidates for in vivo applications. However, challenges in the development of effective CPPs still exist: CPPs are often fast degraded by proteases and large concentration of CPPs required for cargo transporting can cause cytotoxicity. It was previously shown that restricting peptide flexibility can improve peptide stability against enzymatic degradation and limiting length of CPP peptide can lower cytotoxic effects. Here, we present peptides (30-mers) that efficiently penetrate cellular membranes by combining very short CPP sequences and collagen-like folding domains. The CPP domains are hexa-arginine (R6) or arginine/glycine (RRGRRG). Folding is achieved through multiple proline–hydroxyproline–glycine (POG [proline-hydroxyproline- glycine])n repeats that form a collagen-like triple helical conformation. The folded peptides with CPP domains are efficiently internalized, show stability against enzymatic degradation in human serum and have minimal toxicity. Peptides lacking correct folding (random coil) or CPP domains are unable to cross cellular membranes. These features make triple helical cell penetrating peptides promising candidates for efficient transporters of molecular cargo across cellular membranes. 
 
