@@ -2,7 +2,7 @@
 title: "Teaching Experience 1"
 collection: teaching
 type: "Undergraduate Labs"
-permalink: /teaching/2015-spring-teaching-1
+permalink: 
 venue: "California State University Long Beach, Chemistry and Biochemistry"
 start_date: January 2010
 end_date: August 2012
