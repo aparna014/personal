@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in [Medicinal Chemistry and Molecular Pharmacology Dept](https://mcmp.purdue.edu) at Purdue University advised by [Michael Wendt](https://www.wendtlab.com/). 
+I am a PhD student in [Medicinal Chemistry and Molecular Pharmacology Dept](https://www.mcmp.purdue.edu) at Purdue University advised by [Michael Wendt](https://www.wendtlab.com/). 
 
 I am mainly interested in Antibody Drug Conjugates and Cancer Immunotherapy.  
 
