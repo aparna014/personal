@@ -1,6 +1,6 @@
 ---
 title: "Helical collagen Peptides as Novel Cancer Drug Carriers"
-excerpt: "Here, we present peptides that efficiently penetrate cellular membranes by combining very short CPP sequences and collagen-like folding domains that allows triple helical conformation. This conformation allows efficient internalization, increased stability against enzymatic degradation in human serum and minimal toxicity. <br/><img src='/images/Port_4.png'>"
+excerpt: "Here, we present peptides that efficiently penetrate cellular membranes by combining very short CPP sequences and collagen-like folding domains that allows triple helical conformation. This conformation allows efficient internalization, increased stability against enzymatic degradation in human serum and minimal toxicity. <br/> <br/><img src='/images/Port_4.png'>"
 collection: portfolio
 ---
 <a href="https://aparna014.github.io/portfolio/">&larr;Back</a>
