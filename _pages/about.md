@@ -44,7 +44,7 @@ Publications
     </tr>
             <tr>
       <td><img src='/images/pub_toc_5.png' alt="drawing" width="300px"/></td>
-      <td><b>Regulation of epithelial-mesenchymal transition and metastasis by TGF-beta, P-bodies, SYK, and autophagy</b><br/>S.Hardy, <em><u>Aparna Shinde,</u> W. Wang, M. Wendt, and R. Geahlen</em> <br/> Oncotarget 2017 <a href="http://aparna014.github.io/files/Paper_5.pdf"> [pdf] </a></td>
+      <td><b>Regulation of epithelial-mesenchymal transition and metastasis by TGF-&beta;, P-bodies, SYK, and autophagy</b><br/>S.Hardy, <em><u>Aparna Shinde,</u> W. Wang, M. Wendt, and R. Geahlen</em> <br/> Oncotarget 2017 <a href="http://aparna014.github.io/files/Paper_5.pdf"> [pdf] </a></td>
     </tr>
         <tr>
       <td><img src='/images/pub_toc_6.png' alt="drawing" width="300px"/></td>
