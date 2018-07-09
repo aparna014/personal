@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "California State University Long Beach, Chemistry and Biochemistry"
-date: Jan 2010 - August 2012
+date: 2010-1-15
 location: "Long Beach, USA"
 ---
 
