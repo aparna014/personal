@@ -10,6 +10,8 @@ redirect_from:
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. 
 
+Publications
+======
 <table id="t">
   <colgroup>
     <col class="w">
@@ -24,7 +26,7 @@ This is the front page of a website that is powered by the [academicpages templa
   <tbody>
     <tr>
       <td><img src='/images/pub_toc_1.png' alt="drawing" width="300px"/></td>
-      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u>etal.</em>  </td>
+      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u>etal.</em><br/>Molecular Cancer Research 2018  </td>
     </tr>
     <tr>
       <td><img src='/images/pub_toc_2.png' alt="drawing" width="300px"/></td>
