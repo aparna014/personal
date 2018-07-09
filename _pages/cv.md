@@ -14,12 +14,12 @@ Education
 * <strong>Ph.D in Medicinal Chemistry & Molecular Pharmacology, Purdue University</strong>
   * <b>Specialization:</b> Molecular Signaling and Oncology
   * <b>Year:</b> Fall 2018 expected
-  * <b>Thesis:</b> 
+  * <b>Doctoral Thesis:</b> 
   * <b>Advisor:</b> Michael Wendt
 * <strong>M.S. in Chemistry and Biochemistry, California State University of Long Beach</strong>
   * <b>Specialization:</b> Analytical Chemistry
   * <b>Year:</b> 2013
-  * <b>Thesis:</b> 
+  * <b>Masters Thesis:</b> 
   * <b>Advisor:</b> 
 * <strong>B.S. in Biotechnology, University of Mumbai</strong>
   * <b>Year:</b> 2008
