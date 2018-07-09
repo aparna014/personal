@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate Labs"
 permalink: /teaching/2015-spring-teaching-1
 venue: "California State University Long Beach, Chemistry and Biochemistry"
-date: Jan 2010 - Aug 2012
+start_date: January 2010
+end_date: August 2012
 location: "Long Beach, USA"
 ---
 
