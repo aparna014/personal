@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aparna Shinde"
+title                    : #"Aparna Shinde"
 title_separator          : "-"
 name                     : &name "Aparna Shinde"
 description              : &description "PhD researcher<br/>Medical Chemistry & Cancer Pharmacology<br/> Purdue University"
