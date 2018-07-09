@@ -55,6 +55,6 @@ Publications
 
 Talks
 ======
-*Talk1
-*Talk2
+* Talk1
+* Talk2
 
