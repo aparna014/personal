@@ -28,27 +28,27 @@ Publications
   <tbody>
     <tr>
       <td><img src='/images/pub_toc_1.png' alt="drawing" width="300px"/></td>
-      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u> S. Libring, A. Alposy, A. Abdullah, J.A. Schaber, L. Solorio and M. K. Wendt</em><br/>Molecular Cancer Research 2018  <a href="http://academicpages.github.io/files/Paper_1.pdf"> [pdf] </a>  <a href="http://academicpages.github.io/files/Supp_Paper_1.pdf"> [Supp. info] </a>  <a href="https://www.youtube.com"> [video] </a></td>
+      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u> S. Libring, A. Alposy, A. Abdullah, J.A. Schaber, L. Solorio and M. K. Wendt</em><br/>Molecular Cancer Research 2018  <a href="http://aparna014.github.io/files/Paper_1.pdf"> [pdf] </a>  <a href="http://aparna014.github.io/files/Supp_Paper_1.pdf"> [Supp. info] </a>  <a href="https://www.youtube.com"> [video] </a></td>
     </tr>
     <tr>
       <td><img src='/images/pub_toc_2.png' alt="drawing" width="300px"/></td>
-      <td><b>Pyruvate carboxylase drives pulmonary tropism of breast cancer</b><br/><em><u>Aparna Shinde,</u> T. Wilmanski, H. Chen, D. Teegarden and M. K. Wendt </em> <br/>Breast Cancer Research 2018 <a href="http://academicpages.github.io/files/Paper_2.pdf">[pdf]</a></td>
+      <td><b>Pyruvate carboxylase drives pulmonary tropism of breast cancer</b><br/><em><u>Aparna Shinde,</u> T. Wilmanski, H. Chen, D. Teegarden and M. K. Wendt </em> <br/>Breast Cancer Research 2018 <a href="http://aparna014.github.io/files/Paper_2.pdf">[pdf]</a></td>
     </tr>
         <tr>
       <td><img src='/images/pub_toc_3.png' alt="drawing" width="300px"/></td>
-      <td><b>Toxicity mechanism in fetal lung fibroblast cells for multi-walled carbon nanotubes defined by chemical impurities and dispersibility</b><br/><em><u>Aparna Shinde</u> and C. Tsai</em> <br/>Toxicology Research 2016 <a href="http://academicpages.github.io/files/Paper_3.pdf"> [pdf] </a> <br/> <b style="color:#ff4d4d;">Top 30-Most Accessed Articles for 2016 in Toxicology Research </b></td>
+      <td><b>Toxicity mechanism in fetal lung fibroblast cells for multi-walled carbon nanotubes defined by chemical impurities and dispersibility</b><br/><em><u>Aparna Shinde</u> and C. Tsai</em> <br/>Toxicology Research 2016 <a href="http://aparna014.github.io/files/Paper_3.pdf"> [pdf] </a> <br/> <b style="color:#ff4d4d;">Top 30-Most Accessed Articles for 2016 in Toxicology Research </b></td>
     </tr>
         <tr>
       <td><img src='/images/pub_toc_4.png' alt="drawing" width="300px"/></td>
-      <td><b>Peptide internalization enabled by folding: triple helical cell-penetrating peptides</b><br/><em><u>Aparna Shinde,</u> K. Feher, C. Hu and K. Slowinska</em> <br/>Journal of Peptide Science 2015 <a href="http://academicpages.github.io/files/Paper_4.pdf"> [pdf] </a></td>
+      <td><b>Peptide internalization enabled by folding: triple helical cell-penetrating peptides</b><br/><em><u>Aparna Shinde,</u> K. Feher, C. Hu and K. Slowinska</em> <br/>Journal of Peptide Science 2015 <a href="http://aparna014.github.io/files/Paper_4.pdf"> [pdf] </a></td>
     </tr>
             <tr>
       <td><img src='/images/pub_toc_5.png' alt="drawing" width="300px"/></td>
-      <td><b>Regulation of epithelial-mesenchymal transition and metastasis by TGF-beta, P-bodies, SYK, and autophagy</b><br/>S.Hardy, <em><u>Aparna Shinde,</u> W. Wang, M. Wendt, and R. Geahlen</em> <br/> Oncotarget 2017 <a href="http://academicpages.github.io/files/Paper_5.pdf"> [pdf] </a></td>
+      <td><b>Regulation of epithelial-mesenchymal transition and metastasis by TGF-beta, P-bodies, SYK, and autophagy</b><br/>S.Hardy, <em><u>Aparna Shinde,</u> W. Wang, M. Wendt, and R. Geahlen</em> <br/> Oncotarget 2017 <a href="http://aparna014.github.io/files/Paper_5.pdf"> [pdf] </a></td>
     </tr>
         <tr>
       <td><img src='/images/pub_toc_6.png' alt="drawing" width="300px"/></td>
-      <td><b>Inhibition of pyruvate carboxylase by 1&alpha;,25-dihydroxyvitamin D promotes oxidative stress in early breast cancer progression</b><br/><em>T. Wilmanski, X. Zhou, W. Zheng, <u>Aparna Shinde,</u> S.S. Donkin, M. Wendt, J. R. Burgess, and D. Teegarden</em> <br/>Cancer Letters 2017 <a href="http://academicpages.github.io/files/Paper_6.pdf"> [pdf] </a></td>
+      <td><b>Inhibition of pyruvate carboxylase by 1&alpha;,25-dihydroxyvitamin D promotes oxidative stress in early breast cancer progression</b><br/><em>T. Wilmanski, X. Zhou, W. Zheng, <u>Aparna Shinde,</u> S.S. Donkin, M. Wendt, J. R. Burgess, and D. Teegarden</em> <br/>Cancer Letters 2017 <a href="http://aparna014.github.io/files/Paper_6.pdf"> [pdf] </a></td>
     </tr>
   </tbody>
 </table>
