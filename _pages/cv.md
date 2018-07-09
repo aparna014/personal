@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biotechnology, University of Mumbai, 2008
+* <strong>B.S. in Biotechnology, University of Mumbai, 2008</strong>
+  * Year: 2008
 * M.S. in Chemistry and Biochemistry (specialization in Analytical Chemistry) California State University of Long Beach, 2013
 * Ph.D in Medicinal Chemistry & Molecular Pharmacology (specialization in Molecular Signaling and Oncology) Purdue University, 2018
 
