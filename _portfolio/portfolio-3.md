@@ -1,5 +1,5 @@
 ---
-title: "Effect of multi-walled carbon nanotubes on human lung cells''"
+title: "Effect of Carbon Nanomaterials on Human Lung Cells''"
 excerpt: "MoS2 contamination and size of MWCNTs’ agglomerates affect the mechanism of toxicity in human fetal lung fibroblasts <br/><img src='/images/Port_3.png'>"
 collection: portfolio
 ---
