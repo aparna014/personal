@@ -69,12 +69,6 @@ Publications
 * T. Wilmanski*, X. Zhou*, W. Zheng, A. Shinde et al, “Inhibition of pyruvate carboxylase by 1α,25-dihydroxyvitamin D promotes oxidative stress in early breast cancer progression'', Cancer Letters, 2017
 * A. Shinde and C. Tsai, “Toxicity mechanism in fetal lung fibroblast cells for multi-walled carbon nanotubes defined by chemical impurities and dispersibility'', Toxicology Research, 2016, 5 (Top 30-Most Accessed Toxicology Research Articles in 2016)
 * A. Shinde et al, “Peptide internalization enabled by folding: triple helical cell-penetrating peptides'', Journal of Peptide Science, 2015
-  
-Talks
-======
-* 2018: Oral Presentation at Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal
-transition in metastatic breast cancer"
-* 2015: Oral presentation at American Industrial Hygiene Association (AIHA) - Chicago chapter, "Particle characterization factors responsible for malignant transformation of lung cells associated with exposure to carbon nanoparticles"
 
 Awards
 ====== 
