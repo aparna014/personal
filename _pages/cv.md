@@ -20,7 +20,7 @@ Education
   * <b>Specialization:</b> Analytical Chemistry
   * <b>Year:</b> 2013
   * <b>Masters Thesis:</b> Helical Collagen Peptides as Novel Drug Carriers 
-  * <b>Advisor:</b> Kataryzyna Slowinska
+  * <b>Advisor:</b> Katarzyna Slowinska
 * <strong>B.S. in Biotechnology, University of Mumbai</strong>
   * <b>Year:</b> 2008
 
