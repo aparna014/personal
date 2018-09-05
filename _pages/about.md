@@ -14,7 +14,7 @@ I am mainly interested in Antibody Drug Conjugates and Cancer Immunotherapy. Ove
 * protein expression, purification and characterization
 * iPSc/primary/mammalian cell culture, PCR, cloning, FACS
 * AKTA FPLC, LC-MS, ELISA, CRISPR
-* Office, Prism, Python, PyMol, JMP, FACS
+* Office, Prism, Python, PyMol, JMP, Flowjo
 
 My research so far has generated 5 first author and 2 co-author peer reviewed journal articles. I've had oportunity to lead research on 7 individual and 5 collaborative NCI funded projects.
 
