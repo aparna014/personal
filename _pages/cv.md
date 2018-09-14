@@ -62,8 +62,8 @@ Skills
 
 Publications
 ======
-* A. Shinde et al “Autocrine fibronectin inhibits breast cancer metastasis'', Molecular Cancer Research, Accepted, Molecular Cancer Research, 2018
-* A. Shinde et al "Pyruvate carboxylase drives pulmonary tropism of breast cancer", Breast Cancer Research, Accepted, Breast Cancer Research, 2018
+* A. Shinde et al “Autocrine fibronectin inhibits breast cancer metastasis'', Molecular Cancer Research, 2018 (Cover of October 2018 Issue)
+* A. Shinde et al "Pyruvate carboxylase drives pulmonary tropism of breast cancer", Breast Cancer Research, 2018
 * A. Shinde et al "Syk kinase-mediated autophagy is required for epithelial-mesenchymal plasticity", Cancer Research, Under Review
 * S.Hardy, A. Shinde, et al, “Regulation of epithelial-mesenchymal transition and metastasis by TGF-beta, P-bodies, SYK, and autophagy'', Oncotarget, 2017
 * T. Wilmanski*, X. Zhou*, W. Zheng, A. Shinde et al, “Inhibition of pyruvate carboxylase by 1α,25-dihydroxyvitamin D promotes oxidative stress in early breast cancer progression'', Cancer Letters, 2017
