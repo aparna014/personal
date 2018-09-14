@@ -16,7 +16,7 @@ I am mainly interested in Antibody Drug Conjugates and Cancer Immunotherapy. Ove
 * AKTA FPLC, LC-MS, ELISA, CRISPR
 * Office, Prism, Python, PyMol, JMP, Flowjo
 
-My research so far has generated 5 first author and 2 co-author peer reviewed journal articles. I've had oportunity to lead research on 7 individual and 5 collaborative NCI funded projects.
+My research so far has generated 5 first author and 2 co-author peer reviewed journal articles. I've had opportunity to lead research on 7 individual and 5 collaborative NCI funded projects.
 
 
 Publications
