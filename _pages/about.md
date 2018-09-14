@@ -35,7 +35,7 @@ Publications
   <tbody>
     <tr>
       <td><img src='/images/pub_toc_1.png' alt="drawing" width="300px"/></td>
-      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u> S. Libring, A. Alposy, A. Abdullah, J.A. Schaber, L. Solorio and M. K. Wendt</em><br/>Molecular Cancer Research 2018  <a href="http://aparna014.github.io/files/Paper_1.pdf"> [pdf] </a>  <a href="http://aparna014.github.io/files/Supp_Paper_1.pdf"> [Supp. info] </a>  <a href="https://www.youtube.com"> [video] </a></td> Published as Cover Page of October Issue 2018 </b></td>
+      <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u> S. Libring, A. Alposy, A. Abdullah, J.A. Schaber, L. Solorio and M. K. Wendt</em><br/>Molecular Cancer Research 2018  <a href="http://aparna014.github.io/files/Paper_1.pdf"> [pdf] </a>  <a href="http://aparna014.github.io/files/Supp_Paper_1.pdf"> [Supp. info] </a>  <a href="https://www.youtube.com"> [video] </a></td> <b style="color:#ff4d4d;"Published as Cover Page of October Issue 2018 </b></td>
     </tr>
     <tr>
       <td><img src='/images/pub_toc_2.png' alt="drawing" width="300px"/></td>
