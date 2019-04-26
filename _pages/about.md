@@ -33,6 +33,10 @@ Publications
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><img src='/images/cancer-researchLO.jpg' alt="drawing" width="300px"/></td>
+      <td><b>Spleen Tyrosine Kinase–Mediated Autophagy Is Required for Epithelial–Mesenchymal Plasticity and Metastasis in Breast Cancer</b><br/><em><u>Aparna Shinde,</u> Shana D. Hardy, Dongwook Kim, Saeed Salehin Akhand, Mohit Kumar Jolly, Wen-Hung Wang, Joshua C. Anderson, Ryan B. Khodadadi, Wells S. Brown, Jason T. George, Sheng Liu, Jun Wan, Herbert Levine, Christopher D. Willey, Casey J. Krusemark, Robert L. Geahlen and Michael K. Wendt</em><br/>Cancer Research 2019  <a href="http://cancerres.aacrjournals.org/content/79/8/1831"> [Link] </a> <a href="http://cancerres.aacrjournals.org/content/79/8/1756?iss=8"> [Commentary] </a> <a href="https://www.purdue.edu/newsroom/releases/2019/Q2/lock-n-block-drug-may-prevent-cancer-from-metastasizing.html"> [Purdue News] <br/> <b style="color:#ff4d4d;">Published as Cover of April 2019 Issue </b></td> 
+    </tr>
     <tr>
       <td><img src='/images/pub_toc_1.png' alt="drawing" width="300px"/></td>
       <td><b>Autocrine fibronectin inhibits breast cancer metastasis</b><br/><em><u>Aparna Shinde,</u> S. Libring, A. Alposy, A. Abdullah, J.A. Schaber, L. Solorio and M. K. Wendt</em><br/>Molecular Cancer Research 2018  <a href="http://aparna014.github.io/files/Paper_1.pdf"> [pdf] </a>  <a href="http://aparna014.github.io/files/Supp_Paper_1.pdf"> [Supp. info] </a>  <a href="https://youtu.be/jEgJw-FlDuI"> [video1] </a><a href="https://youtu.be/7pAEajpogMo"> [video2] </a><a href="https://youtu.be/OtePIRw5Tjc"> [video3] </a><a href="https://youtu.be/Bx3UYCAOuf8"> [video4] </a><a href="https://youtu.be/FUy_80M0Q7I"> [video5] </a><br/> <b style="color:#ff4d4d;">Published as Cover of October 2018 Issue </b></td> 
