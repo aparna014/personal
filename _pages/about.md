@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in [Medicinal Chemistry and Molecular Pharmacology Dept](https://www.mcmp.purdue.edu) at Purdue University advised by [Michael Wendt](https://www.wendtlab.com/). 
+I am a Postdoctoral Research Scientist at Abbvie Inc. 
+Recently I defended my PhD thesis at Purdue in March 2019 advised by [Michael Wendt](https://www.wendtlab.com/). 
 
 I am mainly interested in Antibody Drug Conjugates and Cancer Immunotherapy. Overall my research combines genetics, cell biology and immunology to unravel the molecular mechanisms in breast cancer metastasis.  I've gained 8 years of hands-on expertise in biochemical, molecular and cellular biological techniques and have solid grounding in statistical principles. I'm constantly adding to my skills and am currently adept at 
 * Cell line engineering using lentiviral/retroviral transductions
