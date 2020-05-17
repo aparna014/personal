@@ -71,7 +71,7 @@ Publications
       <td><b>Regulation of epithelial-mesenchymal transition and metastasis by TGF-&beta;, P-bodies, and autophagy</b><br/><em>S.Hardy, <u>Aparna Shinde,</u> W. Wang, M. Wendt, and R. Geahlen</em> <br/> Oncotarget 2017 <a href="http://aparna014.github.io/files/Paper_5.pdf"> [pdf] </a></td>
     </tr>
         <tr>
-      <tdc><img src='/images/pub_toc_6.png' alt="drawing" width="300px"/></td>
+      <td><img src='/images/pub_toc_6.png' alt="drawing" width="300px"/></td>
       <td><b>Inhibition of pyruvate carboxylase by 1&alpha;,25-dihydroxyvitamin D promotes oxidative stress in early breast cancer progression</b><br/><em>T. Wilmanski, X. Zhou, W. Zheng, <u>Aparna Shinde,</u> S.S. Donkin, M. Wendt, J. R. Burgess, and D. Teegarden</em> <br/>Cancer Letters 2017 <a href="http://aparna014.github.io/files/Paper_6.pdf"> [pdf] </a></td>
     </tr>
   </tbody>
