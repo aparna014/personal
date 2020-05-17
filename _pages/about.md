@@ -71,7 +71,7 @@ Publications
       <td><b>Regulation of epithelial-mesenchymal transition and metastasis by TGF-&beta;, P-bodies, and autophagy</b><br/><em>S.Hardy, <u>Aparna Shinde,</u> W. Wang, M. Wendt, and R. Geahlen</em> <br/> Oncotarget 2017 <a href="http://aparna014.github.io/files/Paper_5.pdf"> [pdf] </a></td>
     </tr>
         <tr>
-      <td><img src='/images/pub_toc_6.png' alt="drawing" width="300px"/></td>
+      <tdc><img src='/images/pub_toc_6.png' alt="drawing" width="300px"/></td>
       <td><b>Inhibition of pyruvate carboxylase by 1&alpha;,25-dihydroxyvitamin D promotes oxidative stress in early breast cancer progression</b><br/><em>T. Wilmanski, X. Zhou, W. Zheng, <u>Aparna Shinde,</u> S.S. Donkin, M. Wendt, J. R. Burgess, and D. Teegarden</em> <br/>Cancer Letters 2017 <a href="http://aparna014.github.io/files/Paper_6.pdf"> [pdf] </a></td>
     </tr>
   </tbody>
@@ -82,4 +82,5 @@ Talks
 * 2018: Oral Presentation at Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal
 transition in metastatic breast cancer"
 * 2015: Oral presentation at American Industrial Hygiene Association (AIHA) - Chicago chapter, "Particle characterization factors responsible for malignant transformation of lung cells associated with exposure to carbon nanoparticles"
+* 2015: Oral presentation at Sustainable Nanotechnology Organization, "Factors affecting carbon nanomaterials' induced cytoxicity in human lung normal and cancer cells"
 
