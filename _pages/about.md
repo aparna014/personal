@@ -36,7 +36,7 @@ Publications
   <tbody>
      <tr>
        <td><img src='/images/Cancers.png' alt="drawing" width="300px"/></td>
-      <td><b>The Dynamic Relationship of Breast Cancer Cells and Fibroblasts in Fibronectin Accumulation at Primary and Metastatic Tumor  Sites</b><br/><em><u>Aparna Shinde,</u> Sarah Libring, Monica K. Chanda, Maryam Nuru, Heather George, Aya M. Saleh, Ammara Abdullah, Tamara L. Kinzer-Ursem, Sarah Calve, Michael K. Wendt and Luis Solorio Luis Solorio</em><br/>Cancers 2020  <a href="https://www.mdpi.com/journal/cancers/special_issues/stroma2019" target="_blank"> [Link] </a> <a href="http://aparna014.github.io/files/Paper_9.pdf"> [pdf] </a>
+      <td><b>The Dynamic Relationship of Breast Cancer Cells and Fibroblasts in Fibronectin Accumulation at Primary and Metastatic Tumor  Sites</b><br/><em><u>Aparna Shinde,</u> Sarah Libring, Monica K. Chanda, Maryam Nuru, Heather George, Aya M. Saleh, Ammara Abdullah, Tamara L. Kinzer-Ursem, Sarah Calve, Michael K. Wendt and Luis Solorio Luis Solorio</em><br/>Cancers 2020 (A Special Issue on Tumor Tissue <a href="https://www.mdpi.com/journal/cancers/special_issues/stroma2019" target="_blank"> [Link] </a> <a href="http://aparna014.github.io/files/Paper_9.pdf"> [pdf] </a>
     </tr>
      <tr>
        <td><img src='/images/Oncogenesis.jpg' alt="drawing" width="300px"/></td>
@@ -69,6 +69,10 @@ Publications
         <tr>
       <td><img src='/images/pub_toc_6.png' alt="drawing" width="300px"/></td>
       <td><b>Inhibition of pyruvate carboxylase by 1&alpha;,25-dihydroxyvitamin D promotes oxidative stress in early breast cancer progression</b><br/><em>T. Wilmanski, X. Zhou, W. Zheng, <u>Aparna Shinde,</u> S.S. Donkin, M. Wendt, J. R. Burgess, and D. Teegarden</em> <br/>Cancer Letters 2017 <a href="http://aparna014.github.io/files/Paper_6.pdf"> [pdf] </a></td>
+    </tr>
+    <tr>
+       <td><img src='/images/Oncotarget.jpg' alt="drawing" width="300px"/></td>
+      <td><b>Dynamic transition of the blood-brain barrier in the development of non-small cell lung cancer brain metastases</b><br/><em>Gozde Uzunalli, Alexandra M. Dieterly, Chinyere M. Kemet, Hsin-Yi Weng, Arvin H. Soepriatna, Craig J. Goergen, <u>Aparna Shinde,</u> Michael K. Wendt, and L. Tiffany Lyle</em><br/>Oncotarget 2019  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6824867/" target="_blank"> [Link] </a> <a href="http://aparna014.github.io/files/Paper_10.pdf"> [pdf] </a>
     </tr>
   </tbody>
 </table>
