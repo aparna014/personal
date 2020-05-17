@@ -35,6 +35,9 @@ Publications
   </thead>
   <tbody>
      <tr>
+      <td><b>Transglutaminase-2 facilitates extracellular vesicle-mediated establishment of the metastatic niche</b><br/><em><u>Aparna Shinde,</u> Juan Sebastian Paez, Sarah Libring, Kelsey Hopkins, Luis Solorio, and Michael K. Wendt</em><br/>Cancer Research 2019  <a href="https://www.nature.com/articles/s41389-020-0204-5" target="_blank"> [Link] </a> <a 
+     </tr>
+     <tr>
       <td><img src='/images/cancer-researchLO.jpg' alt="drawing" width="300px"/></td>
       <td><b>Spleen Tyrosine Kinase–Mediated Autophagy Is Required for Epithelial–Mesenchymal Plasticity and Metastasis in Breast Cancer</b><br/><em><u>Aparna Shinde,</u> Shana D. Hardy, Dongwook Kim, Saeed Salehin Akhand, Mohit Kumar Jolly, Wen-Hung Wang, Joshua C. Anderson, Ryan B. Khodadadi, Wells S. Brown, Jason T. George, Sheng Liu, Jun Wan, Herbert Levine, Christopher D. Willey, Casey J. Krusemark, Robert L. Geahlen and Michael K. Wendt</em><br/>Cancer Research 2019  <a href="http://cancerres.aacrjournals.org/content/79/8/1831" target="_blank"> [Link] </a> <a href="http://cancerres.aacrjournals.org/content/79/8/1756?iss=8" target="_blank"> [Commentary] </a> <a href="https://www.purdue.edu/newsroom/releases/2019/Q2/lock-n-block-drug-may-prevent-cancer-from-metastasizing.html" target="_blank"> [Purdue News]</a> <br/> <b style="color:#ff4d4d;">Published as Cover of April 2019 Issue </b></td> 
     </tr>
