@@ -61,18 +61,18 @@ Publications
         <tr>
       <td><img src='/images/pub_toc_4.png' alt="drawing" width="300px"/></td>
       <td><b>Peptide internalization enabled by folding: triple helical cell-penetrating peptides</b><br/><em><u>Aparna Shinde,</u> K. Feher, C. Hu and K. Slowinska</em> <br/>Journal of Peptide Science 2015 <a href="http://aparna014.github.io/files/Paper_4.pdf"> [pdf] </a></td>
+     </tr>
+        <tr>
+       <td><img src='/images/Oncotarget.jpg' alt="drawing" width="300px"/></td>
+      <td><b>Dynamic transition of the blood-brain barrier in the development of non-small cell lung cancer brain metastases</b><br/><em>Gozde Uzunalli, Alexandra M. Dieterly, Chinyere M. Kemet, Hsin-Yi Weng, Arvin H. Soepriatna, Craig J. Goergen, <u>Aparna Shinde,</u> Michael K. Wendt, and L. Tiffany Lyle</em><br/>Oncotarget 2019  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6824867/" target="_blank"> [Link] </a> <a href="http://aparna014.github.io/files/Paper_10.pdf"> [pdf] </a></td> 
     </tr>
-            <tr>
+        <tr>
       <td><img src='/images/pub_toc_5.png' alt="drawing" width="300px"/></td>
       <td><b>Regulation of epithelial-mesenchymal transition and metastasis by TGF-&beta;, P-bodies, and autophagy</b><br/><em>S.Hardy, <u>Aparna Shinde,</u> W. Wang, M. Wendt, and R. Geahlen</em> <br/> Oncotarget 2017 <a href="http://aparna014.github.io/files/Paper_5.pdf"> [pdf] </a></td>
     </tr>
         <tr>
       <td><img src='/images/pub_toc_6.png' alt="drawing" width="300px"/></td>
       <td><b>Inhibition of pyruvate carboxylase by 1&alpha;,25-dihydroxyvitamin D promotes oxidative stress in early breast cancer progression</b><br/><em>T. Wilmanski, X. Zhou, W. Zheng, <u>Aparna Shinde,</u> S.S. Donkin, M. Wendt, J. R. Burgess, and D. Teegarden</em> <br/>Cancer Letters 2017 <a href="http://aparna014.github.io/files/Paper_6.pdf"> [pdf] </a></td>
-    </tr>
-    <tr>
-       <td><img src='/images/Oncotarget.jpg' alt="drawing" width="300px"/></td>
-      <td><b>Dynamic transition of the blood-brain barrier in the development of non-small cell lung cancer brain metastases</b><br/><em>Gozde Uzunalli, Alexandra M. Dieterly, Chinyere M. Kemet, Hsin-Yi Weng, Arvin H. Soepriatna, Craig J. Goergen, <u>Aparna Shinde,</u> Michael K. Wendt, and L. Tiffany Lyle</em><br/>Oncotarget 2019  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6824867/" target="_blank"> [Link] </a> <a href="http://aparna014.github.io/files/Paper_10.pdf"> [pdf] </a></td> 
     </tr>
   </tbody>
 </table>
