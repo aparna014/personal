@@ -10,9 +10,9 @@ redirect_from:
 I am a Scientist 1 at BioMarin Pharmaceutical Inc. 
 I completed by PhD in Medicinal Chemistry and Cancer Pharmacology at Purdue advised by [Michael Wendt](https://www.wendtlab.com/). 
 
-I am mainly interested in Drug Development and Approval Process. Overall my research combines genetics, cell biology and immunology to unravel the molecular mechanisms in breast cancer metastasis.  I've gained 8 years of hands-on expertise in biochemical, molecular and cellular biological techniques and have solid grounding in statistical principles. I'm constantly adding to my skills and am currently adept at 
+I am mainly interested in Drug Development and Approval Process. Overall my research combines protein chemistry and biochemical pharmacology to unravel the molecular mechanisms in breast cancer metastasis and drug resistance.  I've gained 8 years of hands-on expertise in biochemical, biophysical and pharmacological techniques and have solid grounding in statistical principles. I'm constantly adding to my skills and am currently adept at 
 * Invitro/In Vivo Pharmacokinetics/Pharmacodynamics Modeling and Simulation, Population Modeling
-* Experimental Design and Data analysis
+* Design of Experiment and Data analysis
 * Biochemical and Biophysical Characterization of Proteins
 * Bioanalytical Assay Development and Regulatory Filings
 * Office, Prism, Phoenix Winnonlin, NMLE, NONMEM, Python, PyMol, JMP, Flowjo
