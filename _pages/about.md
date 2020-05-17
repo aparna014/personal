@@ -7,17 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Research Scientist at Abbvie Inc. 
+I am a Scientist 1 at BioMarin Pharmaceutical Inc. 
 I completed by PhD in Medicinal Chemistry and Cancer Pharmacology at Purdue advised by [Michael Wendt](https://www.wendtlab.com/). 
 
 I am mainly interested in Antibody Drug Conjugates and Cancer Immunotherapy. Overall my research combines genetics, cell biology and immunology to unravel the molecular mechanisms in breast cancer metastasis.  I've gained 8 years of hands-on expertise in biochemical, molecular and cellular biological techniques and have solid grounding in statistical principles. I'm constantly adding to my skills and am currently adept at 
-* Cell line engineering using lentiviral/retroviral transductions
-* protein expression, purification and characterization
-* iPSc/primary/mammalian cell culture, PCR, cloning, FACS
-* AKTA FPLC, LC-MS, ELISA, CRISPR
-* Office, Prism, Python, PyMol, JMP, Flowjo
+* Invitro/In Vivo Pharmacokinetics/Pharmacodynamics Modeling and Simulation, Population Modeling
+* Experimental Design and Data analysis
+* Biochemical and Biophysical Characterization of Proteins
+* Bioanalytical Assay Development and Regulatory Filings
+* Office, Prism, Phoenix Winnonlin, NMLE, NONMEM, Python, PyMol, JMP, Flowjo
 
-My research so far has generated 6 first author and 2 co-author peer reviewed journal articles. I've had opportunity to lead research on 7 individual and 5 collaborative NCI funded projects.
+My research so far has generated 7 first author and 3 co-author peer reviewed journal articles. I've had opportunity to lead research on 7 individual and 5 collaborative NCI funded projects.
 
 
 Publications
