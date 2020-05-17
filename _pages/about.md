@@ -36,7 +36,7 @@ Publications
   <tbody>
      <tr>
        <td><img src='/images/Cancers.png' alt="drawing" width="300px"/></td>
-      <td><b>The Dynamic Relationship of Breast Cancer Cells and Fibroblasts in Fibronectin Accumulation at Primary and Metastatic Tumor  Sites</b><br/><em><u>Aparna Shinde,</u> Sarah Libring, Monica K. Chanda, Maryam Nuru, Heather George, Aya M. Saleh, Ammara Abdullah, Tamara L. Kinzer-Ursem, Sarah Calve, Michael K. Wendt and Luis Solorio</em><br/>Cancers 2020 (A Special Issue on Tumor Tissue <a href="https://www.mdpi.com/journal/cancers/special_issues/stroma2019" target="_blank"> [Link] </a> <a href="http://aparna014.github.io/files/Paper_9.pdf"> [pdf] </a></td> 
+      <td><b>The Dynamic Relationship of Breast Cancer Cells and Fibroblasts in Fibronectin Accumulation at Primary and Metastatic Tumor  Sites</b><br/><em><u>Aparna Shinde,</u> Sarah Libring, Monica K. Chanda, Maryam Nuru, Heather George, Aya M. Saleh, Ammara Abdullah, Tamara L. Kinzer-Ursem, Sarah Calve, Michael K. Wendt and Luis Solorio</em><br/>Cancers 2020 (A Special Issue on Tumor Tissue) <a href="https://www.mdpi.com/journal/cancers/special_issues/stroma2019" target="_blank"> [Link] </a> <a href="http://aparna014.github.io/files/Paper_9.pdf"> [pdf] </a></td> 
     </tr>
      <tr>
        <td><img src='/images/Oncogenesis.jpg' alt="drawing" width="300px"/></td>
