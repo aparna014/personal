@@ -81,6 +81,6 @@ Talks
 ======
 * 2018: Oral Presentation at Annual Amelia Project Conference, "Fibronectin mediates epithelial-mesenchymal
 transition in metastatic breast cancer"
-* 2015: Oral presentation at American Industrial Hygiene Association (AIHA) - Chicago chapter, "Particle characterization factors responsible for malignant transformation of lung cells associated with exposure to carbon nanoparticles"
-* 2015: Oral presentation at Sustainable Nanotechnology Organization, "Factors affecting carbon nanomaterials' induced cytoxicity in human lung normal and cancer cells"
+* 2015: Oral Presentation at American Industrial Hygiene Association (AIHA) - Chicago chapter, "Particle characterization factors responsible for malignant transformation of lung cells associated with exposure to carbon nanoparticles"
+* 2015: Oral Presentation at Sustainable Nanotechnology Organization, "Factors affecting carbon nanomaterials' induced cytoxicity in human lung normal and cancer cells"
 
