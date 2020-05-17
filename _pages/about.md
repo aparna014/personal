@@ -35,6 +35,7 @@ Publications
   </thead>
   <tbody>
      <tr>
+       <td><img src='/images/Image.1.png' alt="drawing" width="300px"/></td>
       <td><b>Transglutaminase-2 facilitates extracellular vesicle-mediated establishment of the metastatic niche</b><br/><em><u>Aparna Shinde,</u> Juan Sebastian Paez, Sarah Libring, Kelsey Hopkins, Luis Solorio, and Michael K. Wendt</em><br/>Cancer Research 2019  <a href="https://www.nature.com/articles/s41389-020-0204-5" target="_blank"> [Link] </a> <a 
      </tr>
      <tr>
