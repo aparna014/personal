@@ -35,9 +35,11 @@ Publications
   </thead>
   <tbody>
      <tr>
+       <td><img src='/images/Cancers.png' alt="drawing" width="300px"/></td>
       <td><b>The Dynamic Relationship of Breast Cancer Cells and Fibroblasts in Fibronectin Accumulation at Primary and Metastatic Tumor  Sites</b><br/><em><u>Aparna Shinde,</u> Sarah Libring, Monica K. Chanda, Maryam Nuru, Heather George, Aya M. Saleh, Ammara Abdullah, Tamara L. Kinzer-Ursem, Sarah Calve, Michael K. Wendt and Luis Solorio Luis Solorio</em><br/>Cancers 2020  <a href="https://www.mdpi.com/journal/cancers/special_issues/stroma2019" target="_blank"> [Link] </a> <a href="http://aparna014.github.io/files/Paper_9.pdf"> [pdf] </a>
     </tr>
      <tr>
+       <td><img src='/images/Oncogenesis.jpg' alt="drawing" width="300px"/></td>
       <td><b>Transglutaminase-2 facilitates extracellular vesicle-mediated establishment of the metastatic niche</b><br/><em><u>Aparna Shinde,</u> Juan Sebastian Paez, Sarah Libring, Kelsey Hopkins, Luis Solorio, and Michael K. Wendt</em><br/>Oncogenesis 2020  <a href="https://www.nature.com/articles/s41389-020-0204-5" target="_blank"> [Link] </a> <a href="http://aparna014.github.io/files/Paper_8.pdf"> [pdf] </a>
      </tr>
      <tr>
