@@ -17,7 +17,7 @@ I am mainly interested in Drug Development and Approval Process. Overall my rese
 * Biomarker/Immunogenecity Data Interpretation and Regulatory Filings
 * Office, Prism, Phoenix WinNonlin, NMLE, NONMEM, Python, PyMol, JMP, Flowjo
 
-My research so far has generated 7 first author and 3 co-author peer reviewed journal articles. I've had opportunity to lead research on 7 individual and 5 collaborative NCI funded projects.
+My research so far has generated 8 first author and 6 co-author peer reviewed journal articles. I've had opportunity to lead research on 7 individual and 5 collaborative NCI funded projects.
 
 
 Publications
